@@ -1,5 +1,6 @@
 # park-Pal
 A Parking Management System 
+Closed Mini-Project
 
 ## Overview
 The Clemson Parking Application is a Python-based GUI program for managing parking spots across two lots (C1 and C2). Users can log in, create accounts, view available parking spots, and manage their parking allocations using a Tkinter-based interface.
