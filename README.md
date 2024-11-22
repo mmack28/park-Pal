@@ -1,4 +1,4 @@
-# parking-Pal
+# park-Pal
 A Parking Management System 
 
 ## Overview
@@ -60,7 +60,7 @@ The Clemson Parking Application is a Python-based GUI program for managing parki
   - leave_spot: Vacates a reserved parking spot.
 
 ## Installation
-1. Save the script as `parkingPal.py`.
+1. Save the script as `parkPal.py`.
 2. Open a terminal and run:
    ```bash
-   python parkingPal.py
+   python parkPal.py
